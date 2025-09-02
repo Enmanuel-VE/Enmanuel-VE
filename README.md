@@ -25,3 +25,4 @@
 Me encantaría saber de ti. ¡No dudes en contactarme!
 
 * **Email:** enmanuelbracho.dev@gmail.com
+* **Linkedin:** [Enmanuel Antoni Bracho Villanueva](https://www.linkedin.com/in/enmanuel-antoni-bracho-villanueva/)
