@@ -1,6 +1,6 @@
-<header align="center">
-    <h1> 👋 ¡Hola, soy Enmanuel! </h1>
-    <p>Soy estudiante de Ingeniería en Sistemas en UNEFA y me especializo en el desarrollo front-end 💻✨.</p>
+<header>
+    <h1 align="center"> 👋 ¡Hola, soy Enmanuel! </h1>
+    <p align="center">Soy estudiante de Ingeniería en Sistemas en UNEFA y me especializo en el desarrollo front-end 💻✨.</p>
 </header>
 
 ![Banner principal del README, donde se muestran las tecnologías.](./assets/images/bannerLinkedin.png)
