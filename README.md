@@ -21,7 +21,7 @@
 * **Herramientas:** VS code, pnpm, git, vite.
 * **OS:** Windows 10.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enmanuel-VE&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enmanuel-VE&layout=compact&theme=dracula)
 
 ## Conéctate conmigo 💬
 Me encantaría saber de ti. ¡No dudes en contactarme!
